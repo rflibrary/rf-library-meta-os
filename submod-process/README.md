@@ -1,5 +1,8 @@
 # ⚙️ Phân Hệ Quy Trình & Thuật Toán Sinh Tồn (submod-process)
 
+> ⚠️ **TRẠNG THÁI DỰ ÁN: PHIÊN BẢN THỬ NGHIỆM (BETA) - CHƯA PHÁT HÀNH CHÍNH THỨC**
+> *Hệ điều hành Meta-OS hiện đang trong giai đoạn xây dựng kiến trúc lõi (Macro-Architecture) và thử nghiệm giao thức sinh tồn (Proof of Concept). Các phân hệ (Submodules) đang trong quá trình lắp ráp và cấu trúc có thể thay đổi liên tục trước khi đạt bản Release v1.0.0. Hiện tại chưa khuyến nghị triển khai vào môi trường thực tế (Production). Mọi đóng góp mã nguồn (Pull Requests) và ý tưởng kiến trúc ở giai đoạn này đều được chào đón!*
+
 > ***"Lòng tốt không có hệ thống quản trị sẽ nhanh chóng biến thành sự ban phát kiệt quệ. Tại RFL, chúng tôi không để sự sống còn của thư viện phụ thuộc vào cảm xúc của một nhà tài trợ hay sự hy sinh tùy hứng của một Mentor. Chúng tôi giao phó nó cho Toán học."***
 
 ---
