@@ -1,5 +1,8 @@
 # 🧠 Submodule: Intelligence (Trí Tuệ Thích Ứng & Lõi RAG Cục Bộ)
 
+> ⚠️ **TRẠNG THÁI DỰ ÁN: PHIÊN BẢN THỬ NGHIỆM (BETA) - CHƯA PHÁT HÀNH CHÍNH THỨC**
+> *Hệ điều hành Meta-OS hiện đang trong giai đoạn xây dựng kiến trúc lõi (Macro-Architecture) và thử nghiệm giao thức sinh tồn (Proof of Concept). Các phân hệ (Submodules) đang trong quá trình lắp ráp và cấu trúc có thể thay đổi liên tục trước khi đạt bản Release v1.0.0. Hiện tại chưa khuyến nghị triển khai vào môi trường thực tế (Production). Mọi đóng góp mã nguồn (Pull Requests) và ý tưởng kiến trúc ở giai đoạn này đều được chào đón!*
+
 > ***"Đưa tri thức vào thiết bị biên không chỉ là một giải pháp công nghệ, đó là hành động phá bỏ rào cản độc quyền internet và địa lý. Tri thức không còn nằm xa xôi trên đám mây, mà thở cùng nhịp với cộng đồng ngay trong những chiếc máy tính nhúng tại các bản làng xa xôi."***
 
 Đây là kho lưu trữ lõi của **Trụ cột I (Intelligence)** trong hệ sinh thái RF Library Meta-OS. Phân hệ này chịu trách nhiệm vận hành "Trạm Tri Thức Biên" (Local Knowledge Station), biến các thiết bị phần cứng giá rẻ thành những "Gia sư tri thức cộng đồng" hoàn toàn tự chủ.
