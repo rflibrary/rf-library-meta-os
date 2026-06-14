@@ -5,11 +5,7 @@
 
 ---
 
-# 📚 RF-LIBRARY-META-OS
-
-> **"Freedom Library - Training For The Future!"**
-
-Được thành lập vào ngày 25/12/2020, Thư viện RF là một Hệ sinh thái Đào tạo Phi lợi nhuận vận hành dưới dạng một Meta-Repository...
+## 📚 RF-LIBRARY-META-OS
 
 > **"Freedom Library - Training For The Future!"**
 
