@@ -1,5 +1,8 @@
 # 🔧 Phân Hệ Công Nghệ & Cơ Điện Tử (submod-engineering)
 
+> ⚠️ **TRẠNG THÁI DỰ ÁN: PHIÊN BẢN THỬ NGHIỆM (BETA) - CHƯA PHÁT HÀNH CHÍNH THỨC**
+> *Hệ điều hành Meta-OS hiện đang trong giai đoạn xây dựng kiến trúc lõi (Macro-Architecture) và thử nghiệm giao thức sinh tồn (Proof of Concept). Các phân hệ (Submodules) đang trong quá trình lắp ráp và cấu trúc có thể thay đổi liên tục trước khi đạt bản Release v1.0.0. Hiện tại chưa khuyến nghị triển khai vào môi trường thực tế (Production). Mọi đóng góp mã nguồn (Pull Requests) và ý tưởng kiến trúc ở giai đoạn này đều được chào đón!*
+
 > ***"Công nghệ tại Thư viện RF không được đo đạc bằng sự phức tạp phô trương, mà bằng khả năng sinh tồn. Một bo mạch vĩ đại không phải là bo mạch nhồi nhét nhiều tính năng nhất, mà là bo mạch tiêu thụ dòng điện thấp nhất, dễ tái chế nhất, và hoạt động bền bỉ nhất ở những nơi khắc nghiệt nhất."***
 
 ---
